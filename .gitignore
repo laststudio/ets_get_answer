@@ -1,2 +1,5 @@
 pwd.json
 __pycache__/hwid.cpython-313.pyc
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
