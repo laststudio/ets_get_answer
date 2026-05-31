@@ -1,0 +1,6 @@
+getmac
+netifaces
+psutil
+requests
+pywebview
+pywin32
